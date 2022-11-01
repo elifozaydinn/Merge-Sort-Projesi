@@ -27,4 +27,4 @@
 
 ```
 
-[patike linkim](https://app.patika.dev/elifozaydin)
+[patika linkim](https://app.patika.dev/elifozaydin)
