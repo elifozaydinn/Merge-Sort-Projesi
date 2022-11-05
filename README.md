@@ -28,3 +28,5 @@
 ```
 
 [patika linkim](https://app.patika.dev/elifozaydin)
+
+[Patika.dev](https://www.patika.dev/tr)
